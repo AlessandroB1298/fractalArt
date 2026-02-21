@@ -7,7 +7,7 @@ This project demonstrates the magic of the Mandelbrot set, allowing users to gen
 
 Starting with the basics we take a look at the following formula
 
-$\ \Z_{n+1} = Z_n{^2} + C$
+$\Z_{n+1} = Z_n{^2} + C$
 
 The equation above, is the foundation to this phenomena. 
 
